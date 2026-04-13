@@ -1,4 +1,4 @@
-!appss.png[Uygulama Görseli]
+![App Screen](appss.png)
 # 💊 PillGuard AI: Akıllı İlaç Analiz Sistemi
 
 PillGuard AI, derin öğrenme teknolojisi kullanarak ilaç kutularını görsel olarak analiz eden ve kullanıcıya ilaç hakkında temel bilgiler sunan bir web uygulamasıdır.
