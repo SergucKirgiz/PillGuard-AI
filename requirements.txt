@@ -1,0 +1,6 @@
+streamlit
+streamlit-lottie
+tensorflow
+numpy
+Pillow
+requests
